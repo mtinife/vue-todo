@@ -207,7 +207,7 @@ input:checked ~ .bubble::after {
 	display: block;
 	padding: 0.5rem;
 	border-radius: 0.25rem;
-	color: #FFF;
+	color: red;
 	cursor: pointer;
 	transition: 0.2s ease-in-out;
 }
